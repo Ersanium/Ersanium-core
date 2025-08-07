@@ -1,0 +1,1 @@
+bin_PROGRAMS = ersaniumd ersanium-cli
